@@ -155,6 +155,6 @@ If you find this work useful, please cite us:
 @article{nguyen2025lightspeed,
   title={Lightspeed Geometric Dataset Distance via Sliced Optimal Transport},
   author={Nguyen, Khai and Nguyen, Hai and Pham, Tuan and Ho, Nhat},
-  journal={International Conference on Machine Learning 2025},
+  journal={International Conference on Machine Learning},
   year={2025}
 }
