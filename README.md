@@ -152,12 +152,9 @@ python3 tiny_image_dist.py --parent_dir saved_split_task --num_samples 5000 --nu
 If you find this work useful, please cite us:
 
 ```bibtex
-@inproceedings{nguyen2025lightspeed,
-  title     = {Lightspeed Geometric Dataset Distances via Projections},
-  author    = {Khai Nguyen, Hai Nguyen, Tuan Pham, and Nhat Ho},
-  booktitle = {Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)},
-  year      = {2025},
-  publisher = {PMLR},
-  note      = {arXiv:2501.18901},
-  url       = {https://arxiv.org/abs/2501.18901}
+@article{nguyen2025lightspeed,
+  title={Lightspeed Geometric Dataset Distance via Sliced Optimal Transport},
+  author={Nguyen, Khai and Nguyen, Hai and Pham, Tuan and Ho, Nhat},
+  journal={arXiv preprint arXiv:2501.18901},
+  year={2025}
 }
